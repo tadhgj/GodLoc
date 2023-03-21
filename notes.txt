@@ -1,0 +1,135 @@
+file structure for bus data:
+
+routesShort.json
+- route_id: route name
+
+routes.json
+- route_id: object
+- - route_short_name: route name
+- - route_long_name: route name
+- - route_color: route color
+- - route_text_color: route text color
+- - segments: list of segment ids and forward/backward
+                                    (explore what this means)
+- - stops: list of stop ids
+
+
+stops.json
+- stop_id: object
+- - stop_name: stop name
+- - stop_location: 2 element list of lat/long
+- - stop_routes: list of route ids
+- - stop_code: 4 digit code which doesn't seem to be used
+
+
+segments.json
+- segment_id: list of 2 element lists of lat/long (list of points in the segment)
+
+
+busData.json
+- last_updated: timestamp
+- bus_data: list of objects
+# things that never change:
+- - vehicle_id
+- - bus_number
+# things that rarely change?
+- - route_id
+- - status: up/down (could be deduced from update timestamps but use less frequent update thing here)
+( keep as a list with timestamp so we can see when it changes )
+# things that change often:
+- - location: 2 element list of lat/long
+- - heading: degrees
+- - speed: km/h
+( keep as a list with timestamp so we can see when it changes )
+
+key:
+t: timestamp
+r_id: route_id
+stat: status
+l: location
+h: heading
+s: speed
+
+forgot about this!
+c: capacity
+p: segment
+
+busData should look like this:
+{
+    'metadata': {
+        'last_updated': 1234567890
+    },
+    'data': {
+        'busList': {
+            '12312332': {
+                'perm': {
+                    'bus_number': 1234
+                }
+                'semiperm': [
+                    {
+                        't': 1234567890,
+                        'r_id': 1234,
+                        'stat': 'up',
+                    }
+                ]
+                'temp': {
+                    '1234567890': {
+                        'l': [123.123, 123.123],
+                        'h': 123,
+                        's': 123
+                    },
+                    '1234567891': {
+                        'l': [123.123, 123.123],
+                        'h': 123,
+                        's': 123
+                    },
+                    '1234567892': {
+                        'l': [123.123, 123.123],
+                        'h': 123,
+                        's': 123
+                    }
+                }
+            }
+        }
+    },
+    'timestamps': {
+        '1234567890': 'good',
+        '1234567891': 'good',
+        '1234567892': 'err: no network'
+        '1234567893': 'err: timeout'
+    }
+}
+
+let's just make a new file every "day"
+"day" means from 4am to 2am
+
+store files as:
+YYYY-MM-DD_busData.json
+
+store files in local directory
+
+
+so the overall process is:
+- create or open the file for the current day (at 3:50am to give 10 
+minutes to get the data)
+- read the file
+- at 4:00am, request bus data from the server every 5 seconds
+- - with this data:
+- - - check if valid list
+- - - - if not, just add to timestamp with error message
+- - - - if so, add to timestamp with 'good'
+- - - for each bus:
+- - - - call function addBusData(vehicle_id)
+- - - - - if vehicle_id is not in busList:
+- - - - - - add vehicle_id to busList
+- - - - - - - set perm
+- - - - - - - set up semiperm with timestamp
+- - - - - - - set up temp with timestamp
+- - - - - if vehicle_id is in busList:
+- - - - - - check if semiperm is different
+- - - - - - - if it is: add to semiperm with timestamp
+- - - - - - add to temp with timestamp
+
+
+and every 5 minutes:
+- change contents of current file to current data
