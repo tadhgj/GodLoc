@@ -28,7 +28,6 @@ Because re-inventing the wheel is fun, I decided to make a historical API.
 With this data, I hope that I can answer some questions like:
 * How long do Rutgers bus drivers actually spend on their breaks?
 * When can I realistically expect the first and last bus of the day for any given route?
-* 
 
 
 
