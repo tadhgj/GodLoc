@@ -1,0 +1,8 @@
+# ignore all logs
+*.log
+
+# ignore secretHeader.py
+secretHeader.py
+
+# ignore all json files with busData in the name
+busData*.json
