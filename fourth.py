@@ -27,12 +27,12 @@ headers = secretHeader.headers
 # fetch data function:
 
 #if running in vm:
-# outputDir = '/root/bus/'
-# outputDirAdd = 'logs/'
+outputDir = '/root/bus/'
+outputDirAdd = 'logs/'
 
 #if running in mac:
-outputDir = ''
-outputDirAdd = 'logs/'
+# outputDir = ''
+# outputDirAdd = 'logs/'
 
 #log please!
 loggerThing = logging.getLogger()
@@ -133,6 +133,12 @@ def fetchBusDataNow():
 
 
 def parseData(data, unixtimestamp):
+
+    # check if data empty first:
+    if data['data'] == {}:
+        # e is for empty
+        return "E"
+    
     #1323 comes from the agency code for Rutgers
     try:
         busData = data["data"]["1323"]
@@ -785,8 +791,16 @@ logging.info("day: " + dayStr)
 logging.info("time: " + currenttime.strftime("%H:%M:%S"))
 
 # 4*60*60 = 14400
-fouram = 14400
-twoam = 7200
+# fouram = 14400
+# change fouram to 5:30am
+# 5*60*60 + 30*60 = 19800
+fouram = 19800
+
+# 2*60*60 = 7200
+# twoam = 7200
+# change twoam to 3:45am
+# 3*60*60 + 45*60 = 13500
+twoam = 13500
 
 # if it is after 4am, start process
 try: 
@@ -796,8 +810,8 @@ try:
     elif secondsSinceMidnight < twoam:
         startReading()
     else:
-        #wait until 4am
-        logging.info("waiting until 4am - " + str(fouram - secondsSinceMidnight) + " seconds")
+        #wait until 5:30AM
+        logging.info("waiting until 5:30AM - " + str(fouram - secondsSinceMidnight) + " seconds")
         time.sleep(fouram - secondsSinceMidnight)
         # that's pretty smart actually...
         startReading()
