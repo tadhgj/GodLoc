@@ -1,0 +1,32 @@
+{
+    "agencies": [
+        {
+            "affiliated_agencies": [],
+            "arrival_predictions": true,
+            "bounds": [
+                39.88600715236783,
+                -75.18226623543438,
+                40.788589529,
+                -74.1213226317
+            ],
+            "color": "FF00FF",
+            "has_notifications": true,
+            "has_schedules": true,
+            "has_trip_planning": false,
+            "id": 1323,
+            "location": "New Brunswick, New Jersey",
+            "long_name": "Rutgers University",
+            "name": "rutgers",
+            "position": [
+                40.5025983874,
+                -74.4471740723
+            ],
+            "short_name": "Rutgers University",
+            "text_color": "000000",
+            "timezone": "US/Eastern",
+            "timezone_offset": -14400.0,
+            "url": "http://rudots.rutgers.edu/"
+        }
+    ],
+    "success": true
+}

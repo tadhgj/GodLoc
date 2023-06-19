@@ -1,0 +1,589 @@
+{
+    "routes": [
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.48,
+                -74.464221,
+                40.525106,
+                -74.42872
+            ],
+            "color": "000000",
+            "description": "",
+            "id": 4012654,
+            "is_active": true,
+            "long_name": "Route All Campuses",
+            "short_name": "",
+            "text_color": "FFFFFF",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.734819,
+                -74.191581,
+                40.743386,
+                -74.164721
+            ],
+            "color": "009900",
+            "description": "",
+            "id": 4014494,
+            "is_active": true,
+            "long_name": "Newark Penn Station",
+            "short_name": "",
+            "text_color": "FFFFFF",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.736597,
+                -74.191461,
+                40.746906,
+                -74.170569
+            ],
+            "color": "BE2625",
+            "description": "",
+            "id": 4014496,
+            "is_active": true,
+            "long_name": "Newark Campus Connect",
+            "short_name": "CC",
+            "text_color": "FFFFFF",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.734819,
+                -74.191581,
+                40.741868,
+                -74.164721
+            ],
+            "color": "FF5333",
+            "description": "",
+            "id": 4014500,
+            "is_active": true,
+            "long_name": "Newark Penn Station Express",
+            "short_name": "",
+            "text_color": "FFFFFF",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.739719,
+                -74.189567,
+                40.743789,
+                -74.170569
+            ],
+            "color": "FF5333",
+            "description": "",
+            "id": 4014502,
+            "is_active": false,
+            "long_name": "Newark Campus Connect Express",
+            "short_name": "",
+            "text_color": "FFFFFF",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": null,
+            "color": "A1D490",
+            "description": "",
+            "id": 4014504,
+            "is_active": false,
+            "long_name": "Newark Run Run Express",
+            "short_name": "",
+            "text_color": "000000",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": null,
+            "color": "90C3D4",
+            "description": "",
+            "id": 4014506,
+            "is_active": false,
+            "long_name": "Newark Run Run",
+            "short_name": "",
+            "text_color": "000000",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.48,
+                -74.464221,
+                40.525106,
+                -74.42872
+            ],
+            "color": "008080",
+            "description": "",
+            "id": 4014680,
+            "is_active": true,
+            "long_name": "Summer 1",
+            "short_name": "",
+            "text_color": "FFFFFF",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.48,
+                -74.465127,
+                40.525106,
+                -74.42872
+            ],
+            "color": "666699",
+            "description": "",
+            "id": 4014682,
+            "is_active": true,
+            "long_name": "Summer 2",
+            "short_name": "",
+            "text_color": "FFFFFF",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                39.942299,
+                -75.126481,
+                39.953253,
+                -75.119866
+            ],
+            "color": "FFF000",
+            "description": "",
+            "id": 4014858,
+            "is_active": true,
+            "long_name": "Camden Shuttle",
+            "short_name": "",
+            "text_color": "000000",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.519863,
+                -74.465127,
+                40.525106,
+                -74.433567
+            ],
+            "color": "00B0F0",
+            "description": "",
+            "id": 4014958,
+            "is_active": true,
+            "long_name": "Route B-He",
+            "short_name": "",
+            "text_color": "000000",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.514479,
+                -74.466153,
+                40.523612,
+                -74.463263
+            ],
+            "color": "000000",
+            "description": "",
+            "id": 4014962,
+            "is_active": true,
+            "long_name": "Route C",
+            "short_name": "",
+            "text_color": "000000",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.499616,
+                -74.466153,
+                40.523747,
+                -74.448202
+            ],
+            "color": "7030A0",
+            "description": "",
+            "id": 4015030,
+            "is_active": true,
+            "long_name": "Route H",
+            "short_name": "",
+            "text_color": "000000",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.499616,
+                -74.466153,
+                40.523938,
+                -74.448202
+            ],
+            "color": "8064A2",
+            "description": "",
+            "id": 4015032,
+            "is_active": true,
+            "long_name": "Route A",
+            "short_name": "",
+            "text_color": "000000",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.519863,
+                -74.464221,
+                40.525106,
+                -74.433567
+            ],
+            "color": "0070C0",
+            "description": "",
+            "id": 4015034,
+            "is_active": true,
+            "long_name": "Route B",
+            "short_name": "",
+            "text_color": "000000",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.48,
+                -74.452402,
+                40.5039,
+                -74.42872
+            ],
+            "color": "C00000",
+            "description": "",
+            "id": 4015036,
+            "is_active": true,
+            "long_name": "Route EE",
+            "short_name": "",
+            "text_color": "000000",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.481294,
+                -74.44883,
+                40.5039,
+                -74.436266
+            ],
+            "color": "FF0000",
+            "description": "",
+            "id": 4015038,
+            "is_active": true,
+            "long_name": "Route F",
+            "short_name": "",
+            "text_color": "000000",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.499616,
+                -74.452402,
+                40.525106,
+                -74.433567
+            ],
+            "color": "FFC000",
+            "description": "",
+            "id": 4015040,
+            "is_active": true,
+            "long_name": "Route LX",
+            "short_name": "",
+            "text_color": "000000",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.481294,
+                -74.465127,
+                40.523612,
+                -74.436266
+            ],
+            "color": "FFFF00",
+            "description": "",
+            "id": 4015042,
+            "is_active": true,
+            "long_name": "Route REXB",
+            "short_name": "",
+            "text_color": "000000",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.481294,
+                -74.438584,
+                40.525106,
+                -74.436266
+            ],
+            "color": "00B050",
+            "description": "",
+            "id": 4015044,
+            "is_active": true,
+            "long_name": "Route REXL",
+            "short_name": "",
+            "text_color": "000000",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.48,
+                -74.464221,
+                40.525106,
+                -74.42872
+            ],
+            "color": "000080",
+            "description": "",
+            "id": 4015178,
+            "is_active": false,
+            "long_name": "OverNight Weekend 1",
+            "short_name": "",
+            "text_color": "FFFFFF",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.48,
+                -74.465127,
+                40.525106,
+                -74.42872
+            ],
+            "color": "000080",
+            "description": "",
+            "id": 4015180,
+            "is_active": false,
+            "long_name": "OverNight Weekend 2",
+            "short_name": "",
+            "text_color": "FFFFFF",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.499616,
+                -74.466153,
+                40.523938,
+                -74.448202
+            ],
+            "color": "FF00FF",
+            "description": "",
+            "id": 4015284,
+            "is_active": false,
+            "long_name": "Exam",
+            "short_name": "A",
+            "text_color": "000000",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.519863,
+                -74.465127,
+                40.525106,
+                -74.433567
+            ],
+            "color": "DAA520",
+            "description": "",
+            "id": 4015286,
+            "is_active": false,
+            "long_name": "Exam",
+            "short_name": "B-He",
+            "text_color": "000000",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.48,
+                -74.452402,
+                40.5039,
+                -74.42872
+            ],
+            "color": "FF8000",
+            "description": "",
+            "id": 4015288,
+            "is_active": false,
+            "long_name": "Exam",
+            "short_name": "EE",
+            "text_color": "000000",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.481294,
+                -74.44883,
+                40.5039,
+                -74.436266
+            ],
+            "color": "FF0000",
+            "description": "",
+            "id": 4015290,
+            "is_active": false,
+            "long_name": "Exam",
+            "short_name": "F",
+            "text_color": "000000",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.499616,
+                -74.466153,
+                40.523747,
+                -74.448202
+            ],
+            "color": "0000FF",
+            "description": "",
+            "id": 4015292,
+            "is_active": false,
+            "long_name": "Exam",
+            "short_name": "H",
+            "text_color": "FFFFFF",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.499616,
+                -74.452402,
+                40.525106,
+                -74.43663
+            ],
+            "color": "CC99FF",
+            "description": "",
+            "id": 4015294,
+            "is_active": false,
+            "long_name": "Exam",
+            "short_name": "LX",
+            "text_color": "FFFFFF",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.481294,
+                -74.465127,
+                40.523612,
+                -74.436266
+            ],
+            "color": "660033",
+            "description": "",
+            "id": 4015296,
+            "is_active": true,
+            "long_name": "Exam",
+            "short_name": "REXB",
+            "text_color": "FFFFFF",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.519863,
+                -74.464221,
+                40.525106,
+                -74.433567
+            ],
+            "color": "FFD700",
+            "description": "",
+            "id": 4015298,
+            "is_active": false,
+            "long_name": "Exam",
+            "short_name": "B",
+            "text_color": "000000",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.481294,
+                -74.438584,
+                40.525106,
+                -74.436266
+            ],
+            "color": "66B2FF",
+            "description": "",
+            "id": 4015300,
+            "is_active": false,
+            "long_name": "Exam",
+            "short_name": "REXL",
+            "text_color": "FFFFFF",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.514479,
+                -74.466153,
+                40.523612,
+                -74.463263
+            ],
+            "color": "00FFFF",
+            "description": "",
+            "id": 4015302,
+            "is_active": false,
+            "long_name": "Exam",
+            "short_name": "C",
+            "text_color": "000000",
+            "type": "bus",
+            "url": ""
+        },
+        {
+            "agency_id": 1323,
+            "bounds": [
+                40.484649,
+                -74.460526,
+                40.523747,
+                -74.435995
+            ],
+            "color": "CC0033",
+            "description": "",
+            "id": 4016758,
+            "is_active": false,
+            "long_name": "Rutgers Day 2023",
+            "short_name": "",
+            "text_color": "000000",
+            "type": "bus",
+            "url": ""
+        }
+    ],
+    "success": true
+}

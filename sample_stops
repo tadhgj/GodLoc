@@ -1,0 +1,1169 @@
+{
+    "routes": [
+        {
+            "id": 4012654,
+            "stops": [
+                4259014,
+                4229620,
+                4229496,
+                4259016,
+                4259018,
+                4259062,
+                4229570,
+                4254110,
+                4266590,
+                4229696,
+                4259030,
+                4229596,
+                4259054,
+                4259722,
+                4259058,
+                4253700,
+                4253718
+            ]
+        },
+        {
+            "id": 4014494,
+            "stops": [
+                4253760,
+                4253756,
+                4253738,
+                4253732,
+                4253722,
+                4253742,
+                4253758,
+                4253726
+            ]
+        },
+        {
+            "id": 4014496,
+            "stops": [
+                4253728,
+                4253758,
+                4253742,
+                4253724,
+                4253754,
+                4253734,
+                4253730,
+                4253768,
+                4253770,
+                4253766,
+                4253762
+            ]
+        },
+        {
+            "id": 4014500,
+            "stops": [
+                4253754,
+                4253738,
+                4253760
+            ]
+        },
+        {
+            "id": 4014502,
+            "stops": [
+                4253728,
+                4253754,
+                4253730,
+                4253768
+            ]
+        },
+        {
+            "id": 4014504,
+            "stops": [
+                4253728,
+                4253772,
+                4253720,
+                4253730,
+                4253768,
+                4253770,
+                4253762
+            ]
+        },
+        {
+            "id": 4014506,
+            "stops": [
+                4253760,
+                4253730,
+                4253768,
+                4253770,
+                4253762,
+                4253772,
+                4253728,
+                4253720
+            ]
+        },
+        {
+            "id": 4014680,
+            "stops": [
+                4259014,
+                4229620,
+                4229496,
+                4259016,
+                4259018,
+                4259062,
+                4229570,
+                4254110,
+                4229696,
+                4259030,
+                4229596,
+                4259054,
+                4259722,
+                4259058,
+                4253700,
+                4253718
+            ]
+        },
+        {
+            "id": 4014682,
+            "stops": [
+                4259014,
+                4229620,
+                4259050,
+                4259030,
+                4229596,
+                4259054,
+                4259722,
+                4259058,
+                4253700,
+                4229496,
+                4229570,
+                4254110,
+                4259062,
+                4259048,
+                4231636
+            ]
+        },
+        {
+            "id": 4014858,
+            "stops": [
+                4259072,
+                4259074,
+                4259076,
+                4259078,
+                4259082,
+                4259080
+            ]
+        },
+        {
+            "id": 4014958,
+            "stops": [
+                4254110,
+                4266590,
+                4259046,
+                4259062,
+                4259048,
+                4231636,
+                4229570
+            ]
+        },
+        {
+            "id": 4014962,
+            "stops": [
+                4259010,
+                4259016,
+                4259048,
+                4231636
+            ]
+        },
+        {
+            "id": 4015030,
+            "stops": [
+                4259062,
+                4259048,
+                4231636,
+                4259010,
+                4259014,
+                4229620,
+                4229496,
+                4259040
+            ]
+        },
+        {
+            "id": 4015032,
+            "stops": [
+                4259014,
+                4229620,
+                4229496,
+                4259010,
+                4259016,
+                4259018,
+                4259062,
+                4259568
+            ]
+        },
+        {
+            "id": 4015034,
+            "stops": [
+                4254110,
+                4266590,
+                4259016,
+                4259018,
+                4259062,
+                4229570
+            ]
+        },
+        {
+            "id": 4015036,
+            "stops": [
+                4259014,
+                4229620,
+                4259050,
+                4259030,
+                4229596,
+                4259054,
+                4259722,
+                4259058,
+                4253700,
+                4253718,
+                4229496
+            ]
+        },
+        {
+            "id": 4015038,
+            "stops": [
+                4259030,
+                4229596,
+                4253700,
+                4229496,
+                4229620
+            ]
+        },
+        {
+            "id": 4015040,
+            "stops": [
+                4254110,
+                4259014,
+                4229620,
+                4229496,
+                4229570
+            ]
+        },
+        {
+            "id": 4015042,
+            "stops": [
+                4259030,
+                4229596,
+                4253700,
+                4259016,
+                4259048,
+                4231636
+            ]
+        },
+        {
+            "id": 4015044,
+            "stops": [
+                4259030,
+                4229596,
+                4253700,
+                4229570,
+                4254110
+            ]
+        },
+        {
+            "id": 4015178,
+            "stops": [
+                4259014,
+                4229620,
+                4229496,
+                4259016,
+                4259018,
+                4259062,
+                4229570,
+                4254110,
+                4266590,
+                4229696,
+                4259030,
+                4229596,
+                4259054,
+                4259722,
+                4259058,
+                4253700,
+                4253718
+            ]
+        },
+        {
+            "id": 4015180,
+            "stops": [
+                4259014,
+                4229620,
+                4259050,
+                4259030,
+                4229596,
+                4259054,
+                4259722,
+                4259058,
+                4253700,
+                4229496,
+                4229570,
+                4254110,
+                4266590,
+                4259062,
+                4259048,
+                4231636
+            ]
+        },
+        {
+            "id": 4015284,
+            "stops": [
+                4259014,
+                4229620,
+                4229496,
+                4259010,
+                4259016,
+                4259018,
+                4259062,
+                4259040
+            ]
+        },
+        {
+            "id": 4015286,
+            "stops": [
+                4254110,
+                4266590,
+                4259046,
+                4259062,
+                4259048,
+                4259016,
+                4229570
+            ]
+        },
+        {
+            "id": 4015288,
+            "stops": [
+                4259014,
+                4229620,
+                4259050,
+                4259030,
+                4229596,
+                4259054,
+                4259722,
+                4259058,
+                4253700,
+                4253718,
+                4229496
+            ]
+        },
+        {
+            "id": 4015290,
+            "stops": [
+                4259030,
+                4229596,
+                4253700,
+                4229496,
+                4229620
+            ]
+        },
+        {
+            "id": 4015292,
+            "stops": [
+                4259062,
+                4259048,
+                4231636,
+                4259010,
+                4259014,
+                4229620,
+                4229496,
+                4259568,
+                4268596
+            ]
+        },
+        {
+            "id": 4015294,
+            "stops": [
+                4254110,
+                4259046,
+                4259014,
+                4229620,
+                4229496,
+                4229570
+            ]
+        },
+        {
+            "id": 4015296,
+            "stops": [
+                4259030,
+                4229596,
+                4253700,
+                4259016,
+                4259048
+            ]
+        },
+        {
+            "id": 4015298,
+            "stops": [
+                4254110,
+                4266590,
+                4259016,
+                4259018,
+                4259062,
+                4229570
+            ]
+        },
+        {
+            "id": 4015300,
+            "stops": [
+                4259030,
+                4229596,
+                4253700,
+                4229570,
+                4254110
+            ]
+        },
+        {
+            "id": 4015302,
+            "stops": [
+                4259010,
+                4259016,
+                4259048,
+                4231636
+            ]
+        },
+        {
+            "id": 4016758,
+            "stops": [
+                4259062,
+                4274038,
+                4229696,
+                4274040,
+                4259050,
+                4274042,
+                4274044,
+                4274046,
+                4229496,
+                4274048
+            ]
+        }
+    ],
+    "stops": [
+        {
+            "code": "1001",
+            "description": "",
+            "id": 4229496,
+            "location_type": "stop",
+            "name": "Student Activities Center Northbound",
+            "parent_station_id": null,
+            "position": [
+                40.5039,
+                -74.44883
+            ],
+            "url": ""
+        },
+        {
+            "code": "1028",
+            "description": "",
+            "id": 4229570,
+            "location_type": "stop",
+            "name": "Livingston Plaza",
+            "parent_station_id": null,
+            "position": [
+                40.525106,
+                -74.438584
+            ],
+            "url": ""
+        },
+        {
+            "code": "1047",
+            "description": "",
+            "id": 4229596,
+            "location_type": "stop",
+            "name": "Lipman Hall",
+            "parent_station_id": null,
+            "position": [
+                40.481294,
+                -74.436266
+            ],
+            "url": ""
+        },
+        {
+            "code": "1055",
+            "description": "",
+            "id": 4229620,
+            "location_type": "stop",
+            "name": "The Yard",
+            "parent_station_id": null,
+            "position": [
+                40.499616,
+                -74.448202
+            ],
+            "url": ""
+        },
+        {
+            "code": "3014",
+            "description": "",
+            "id": 4229696,
+            "location_type": "stop",
+            "name": "Student Activities Center Southbound",
+            "parent_station_id": null,
+            "position": [
+                40.504249,
+                -74.449742
+            ],
+            "url": ""
+        },
+        {
+            "code": "10040",
+            "description": "",
+            "id": 4231636,
+            "location_type": "stop",
+            "name": "Hill Center (SB)",
+            "parent_station_id": null,
+            "position": [
+                40.521872,
+                -74.463417
+            ],
+            "url": ""
+        },
+        {
+            "code": "1052",
+            "description": "",
+            "id": 4253700,
+            "location_type": "stop",
+            "name": "College Hall",
+            "parent_station_id": null,
+            "position": [
+                40.485509,
+                -74.437198
+            ],
+            "url": ""
+        },
+        {
+            "code": "1043",
+            "description": "",
+            "id": 4253718,
+            "location_type": "stop",
+            "name": "SoCam Apts NB",
+            "parent_station_id": null,
+            "position": [
+                40.492293,
+                -74.44324
+            ],
+            "url": ""
+        },
+        {
+            "code": "2001",
+            "description": "we assigned code",
+            "id": 4253722,
+            "location_type": "stop",
+            "name": "180 W Market St",
+            "parent_station_id": null,
+            "position": [
+                40.741274,
+                -74.186955
+            ],
+            "url": ""
+        },
+        {
+            "code": "2003",
+            "description": "we assigned code",
+            "id": 4253724,
+            "location_type": "stop",
+            "name": "Bergen Building",
+            "parent_station_id": null,
+            "position": [
+                40.743386,
+                -74.191461
+            ],
+            "url": ""
+        },
+        {
+            "code": "2004",
+            "description": "we assigned code",
+            "id": 4253726,
+            "location_type": "stop",
+            "name": "Blumenthal Hall",
+            "parent_station_id": null,
+            "position": [
+                40.739281,
+                -74.175143
+            ],
+            "url": ""
+        },
+        {
+            "code": "2005",
+            "description": "we assigned code",
+            "id": 4253728,
+            "location_type": "stop",
+            "name": "Boyden Hall",
+            "parent_station_id": null,
+            "position": [
+                40.740978,
+                -74.174247
+            ],
+            "url": ""
+        },
+        {
+            "code": "2009",
+            "description": "we assigned code",
+            "id": 4253730,
+            "location_type": "stop",
+            "name": "CLJ",
+            "parent_station_id": null,
+            "position": [
+                40.741242,
+                -74.172097
+            ],
+            "url": ""
+        },
+        {
+            "code": "2012",
+            "description": "we assigned code",
+            "id": 4253732,
+            "location_type": "stop",
+            "name": "Dental School",
+            "parent_station_id": null,
+            "position": [
+                40.742285,
+                -74.190294
+            ],
+            "url": ""
+        },
+        {
+            "code": "2013",
+            "description": "we assigned code",
+            "id": 4253734,
+            "location_type": "stop",
+            "name": "ECC",
+            "parent_station_id": null,
+            "position": [
+                40.736597,
+                -74.178506
+            ],
+            "url": ""
+        },
+        {
+            "code": "2015",
+            "description": "we assigned code",
+            "id": 4253738,
+            "location_type": "stop",
+            "name": "Hospital",
+            "parent_station_id": null,
+            "position": [
+                40.741868,
+                -74.191581
+            ],
+            "url": ""
+        },
+        {
+            "code": "2017",
+            "description": "we assigned code",
+            "id": 4253742,
+            "location_type": "stop",
+            "name": "ICPH",
+            "parent_station_id": null,
+            "position": [
+                40.742787,
+                -74.183882
+            ],
+            "url": ""
+        },
+        {
+            "code": "2025",
+            "description": "we assigned code",
+            "id": 4253754,
+            "location_type": "stop",
+            "name": "Medical School",
+            "parent_station_id": null,
+            "position": [
+                40.739719,
+                -74.189567
+            ],
+            "url": ""
+        },
+        {
+            "code": "2026",
+            "description": "we assigned code",
+            "id": 4253756,
+            "location_type": "stop",
+            "name": "Medical School (Arrival)",
+            "parent_station_id": null,
+            "position": [
+                40.739686,
+                -74.189452
+            ],
+            "url": ""
+        },
+        {
+            "code": "2027",
+            "description": "we assigned code",
+            "id": 4253758,
+            "location_type": "stop",
+            "name": "NJIT",
+            "parent_station_id": null,
+            "position": [
+                40.741192,
+                -74.178811
+            ],
+            "url": ""
+        },
+        {
+            "code": "2028",
+            "description": "we assigned code",
+            "id": 4253760,
+            "location_type": "stop",
+            "name": "Penn Station",
+            "parent_station_id": null,
+            "position": [
+                40.734819,
+                -74.164721
+            ],
+            "url": ""
+        },
+        {
+            "code": "2031",
+            "description": "we assigned code",
+            "id": 4253762,
+            "location_type": "stop",
+            "name": "Physical Plant",
+            "parent_station_id": null,
+            "position": [
+                40.744492,
+                -74.172539
+            ],
+            "url": ""
+        },
+        {
+            "code": "2038",
+            "description": "we assigned code",
+            "id": 4253766,
+            "location_type": "stop",
+            "name": "University North",
+            "parent_station_id": null,
+            "position": [
+                40.746147,
+                -74.17175
+            ],
+            "url": ""
+        },
+        {
+            "code": "2039",
+            "description": "we assigned code",
+            "id": 4253768,
+            "location_type": "stop",
+            "name": "Washington Park",
+            "parent_station_id": null,
+            "position": [
+                40.743789,
+                -74.170569
+            ],
+            "url": ""
+        },
+        {
+            "code": "2044",
+            "description": "we assigned code",
+            "id": 4253770,
+            "location_type": "stop",
+            "name": "Broad St",
+            "parent_station_id": null,
+            "position": [
+                40.746906,
+                -74.1711
+            ],
+            "url": ""
+        },
+        {
+            "code": "1058",
+            "description": "",
+            "id": 4254110,
+            "location_type": "stop",
+            "name": "Livingston Student Center",
+            "parent_station_id": null,
+            "position": [
+                40.524,
+                -74.43663
+            ],
+            "url": ""
+        },
+        {
+            "code": "1002",
+            "description": "",
+            "id": 4259010,
+            "location_type": "stop",
+            "name": "Stadium West Lot",
+            "parent_station_id": null,
+            "position": [
+                40.514479,
+                -74.466153
+            ],
+            "url": ""
+        },
+        {
+            "code": "10035",
+            "description": "",
+            "id": 4259014,
+            "location_type": "stop",
+            "name": "College Avenue Student Ctr",
+            "parent_station_id": null,
+            "position": [
+                40.503665,
+                -74.452402
+            ],
+            "url": ""
+        },
+        {
+            "code": "1004",
+            "description": "",
+            "id": 4259016,
+            "location_type": "stop",
+            "name": "Hill Center (NB)",
+            "parent_station_id": null,
+            "position": [
+                40.52192,
+                -74.463263
+            ],
+            "url": ""
+        },
+        {
+            "code": "1005",
+            "description": "",
+            "id": 4259018,
+            "location_type": "stop",
+            "name": "Sciences Building",
+            "parent_station_id": null,
+            "position": [
+                40.523938,
+                -74.464221
+            ],
+            "url": ""
+        },
+        {
+            "code": "1011",
+            "description": "",
+            "id": 4259030,
+            "location_type": "stop",
+            "name": "Red Oak Lane",
+            "parent_station_id": null,
+            "position": [
+                40.482987,
+                -74.437535
+            ],
+            "url": ""
+        },
+        {
+            "code": "1022",
+            "description": "",
+            "id": 4259040,
+            "location_type": "stop",
+            "name": "Werblin Recreation Center",
+            "parent_station_id": null,
+            "position": [
+                40.518637,
+                -74.459854
+            ],
+            "url": ""
+        },
+        {
+            "code": "1034",
+            "description": "",
+            "id": 4259046,
+            "location_type": "stop",
+            "name": "Busch-Livingston Health Center",
+            "parent_station_id": null,
+            "position": [
+                40.523479,
+                -74.442508
+            ],
+            "url": ""
+        },
+        {
+            "code": "1036",
+            "description": "",
+            "id": 4259048,
+            "location_type": "stop",
+            "name": "Allison Road Classrooms",
+            "parent_station_id": null,
+            "position": [
+                40.523612,
+                -74.465127
+            ],
+            "url": ""
+        },
+        {
+            "code": "10430",
+            "description": "",
+            "id": 4259050,
+            "location_type": "stop",
+            "name": "SoCam Apts SB",
+            "parent_station_id": null,
+            "position": [
+                40.491856,
+                -74.443093
+            ],
+            "url": ""
+        },
+        {
+            "code": "1048",
+            "description": "",
+            "id": 4259054,
+            "location_type": "stop",
+            "name": "Biel Road",
+            "parent_station_id": null,
+            "position": [
+                40.48,
+                -74.432522
+            ],
+            "url": ""
+        },
+        {
+            "code": "1051",
+            "description": "",
+            "id": 4259058,
+            "location_type": "stop",
+            "name": "Gibbons",
+            "parent_station_id": null,
+            "position": [
+                40.48523,
+                -74.43194
+            ],
+            "url": ""
+        },
+        {
+            "code": "1056",
+            "description": "",
+            "id": 4259062,
+            "location_type": "stop",
+            "name": "Busch Student Ctr",
+            "parent_station_id": null,
+            "position": [
+                40.523747,
+                -74.458373
+            ],
+            "url": ""
+        },
+        {
+            "code": "3202",
+            "description": "",
+            "id": 4259072,
+            "location_type": "stop",
+            "name": "City Lot 15",
+            "parent_station_id": null,
+            "position": [
+                39.952097,
+                -75.126481
+            ],
+            "url": ""
+        },
+        {
+            "code": "3203",
+            "description": "",
+            "id": 4259074,
+            "location_type": "stop",
+            "name": "City Lot 16",
+            "parent_station_id": null,
+            "position": [
+                39.953253,
+                -75.125933
+            ],
+            "url": ""
+        },
+        {
+            "code": "3204",
+            "description": "",
+            "id": 4259076,
+            "location_type": "stop",
+            "name": "Law School",
+            "parent_station_id": null,
+            "position": [
+                39.947582,
+                -75.120661
+            ],
+            "url": ""
+        },
+        {
+            "code": "3205",
+            "description": "",
+            "id": 4259078,
+            "location_type": "stop",
+            "name": "Nursing and Science Building [NSB]",
+            "parent_station_id": null,
+            "position": [
+                39.943979,
+                -75.120531
+            ],
+            "url": ""
+        },
+        {
+            "code": "3206",
+            "description": "",
+            "id": 4259080,
+            "location_type": "stop",
+            "name": "Business and Science Building [BSB]",
+            "parent_station_id": null,
+            "position": [
+                39.948557,
+                -75.123476
+            ],
+            "url": ""
+        },
+        {
+            "code": "4000",
+            "description": "",
+            "id": 4259082,
+            "location_type": "stop",
+            "name": "Joint Health Science Center",
+            "parent_station_id": null,
+            "position": [
+                39.942299,
+                -75.119866
+            ],
+            "url": ""
+        },
+        {
+            "code": "10057",
+            "description": "",
+            "id": 4259568,
+            "location_type": "stop",
+            "name": "Werblin Main Entrance",
+            "parent_station_id": null,
+            "position": [
+                40.518798,
+                -74.459984
+            ],
+            "url": ""
+        },
+        {
+            "code": "1050",
+            "description": "",
+            "id": 4259722,
+            "location_type": "stop",
+            "name": "Henderson",
+            "parent_station_id": null,
+            "position": [
+                40.48095,
+                -74.42872
+            ],
+            "url": ""
+        },
+        {
+            "code": "3013",
+            "description": "",
+            "id": 4261662,
+            "location_type": "stop",
+            "name": "Public Safety Building on Commercial Southbound",
+            "parent_station_id": null,
+            "position": [
+                40.487913,
+                -74.439383
+            ],
+            "url": ""
+        },
+        {
+            "code": "1030",
+            "description": "",
+            "id": 4266590,
+            "location_type": "stop",
+            "name": "Quads",
+            "parent_station_id": null,
+            "position": [
+                40.519863,
+                -74.433567
+            ],
+            "url": ""
+        },
+        {
+            "code": "20180",
+            "description": "",
+            "id": 4266814,
+            "location_type": "stop",
+            "name": "New Street",
+            "parent_station_id": null,
+            "position": [
+                40.7437,
+                -74.18132
+            ],
+            "url": ""
+        },
+        {
+            "code": "1009",
+            "description": "",
+            "id": 4268596,
+            "location_type": "stop",
+            "name": "Buell Apartments",
+            "parent_station_id": null,
+            "position": [
+                40.521807,
+                -74.456701
+            ],
+            "url": ""
+        },
+        {
+            "code": "5001",
+            "description": "",
+            "id": 4274038,
+            "location_type": "stop",
+            "name": "Lot 48 Far",
+            "parent_station_id": null,
+            "position": [
+                40.515112,
+                -74.460526
+            ],
+            "url": ""
+        },
+        {
+            "code": "5002",
+            "description": "",
+            "id": 4274040,
+            "location_type": "stop",
+            "name": "Zimmerli Art Museum SB",
+            "parent_station_id": null,
+            "position": [
+                40.499937,
+                -74.445447
+            ],
+            "url": ""
+        },
+        {
+            "code": "5003",
+            "description": "",
+            "id": 4274042,
+            "location_type": "stop",
+            "name": "Douglass Student Center",
+            "parent_station_id": null,
+            "position": [
+                40.484649,
+                -74.435995
+            ],
+            "url": ""
+        },
+        {
+            "code": "5004",
+            "description": "",
+            "id": 4274044,
+            "location_type": "stop",
+            "name": "George Street Northbound at Liberty Street",
+            "parent_station_id": null,
+            "position": [
+                40.49325,
+                -74.4434
+            ],
+            "url": ""
+        },
+        {
+            "code": "5005",
+            "description": "",
+            "id": 4274046,
+            "location_type": "stop",
+            "name": "Zimmerli Art Museum",
+            "parent_station_id": null,
+            "position": [
+                40.499707,
+                -74.445069
+            ],
+            "url": ""
+        },
+        {
+            "code": "5006",
+            "description": "",
+            "id": 4274048,
+            "location_type": "stop",
+            "name": "Lot 48 Near",
+            "parent_station_id": null,
+            "position": [
+                40.515112,
+                -74.460526
+            ],
+            "url": ""
+        }
+    ],
+    "success": true
+}
